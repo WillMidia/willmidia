@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header&fontSize=90)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CACACA&background=FFFFFF00&vCenter=true&multiline=true&random=false&width=440&height=98&lines=%F0%9F%92%BBOl%C3%A1!+%E2%80%A2+Meu+nome+%C3%A9+William!;Sou+um+desenvolvedor+Backend!)](https://git.io/typing-svg)
-- 📚 Estudante de Bacharelado em Sistemas de Informação na [FIAP](https://www.fiap.com.br/)
 - 💼 Desenvolvedor Backend especializado em Kotlin e Spring Boot
 - 📫 Me mande um E-Mail: will.tedros@gmail.com
 
